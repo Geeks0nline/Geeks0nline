@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/GeeksOnline/GeeksOnline/main/banner.png" width="100%" />
+<img src="https://raw.githubusercontent.com/GeeksOnline/GeeksOnline/banner.png" width="100%" />
 </p>
 
 # 👋 Welcome to **Geeks.Online®**
