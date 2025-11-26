@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GeeksOnline/.github/main/profile/banner.png" alt="Geeks.Online Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/GeeksOnline/Geeks0nline/main/profile/banner.png" alt="Geeks.Online Banner" width="100%" />
 </p>
 
 
